@@ -4,8 +4,8 @@
 	  <link rel="stylesheet" href="replace this.css" type="text/css">
 	</head>
 	  <nav>
-	      <li>Home
-	      <li>about
+	      <li>Home</li>
+	      <li>about</li>
 	      <li>Content</li>
 	  </nav>
 		<body><p>Lorem Ipsum is simply dummy text of the 
